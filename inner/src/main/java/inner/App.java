@@ -5,7 +5,7 @@ package inner;
 
 public class App {
 
-    private String reduntantVar = "simpleVar";
+    private String reduntantVar = "simpleVar";   
 
     public String getGreeting() {
         return "Hello world from inner.";
